@@ -10,9 +10,21 @@
   },
   "dependencies": {
     "@auth0/auth0-react": "^1.10.2",
+<<<<<<< HEAD
     "dotenv": "^16.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+=======
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mui/icons-material": "^5.10.3",
+    "@mui/material": "^5.10.4",
+    "@mui/styled-engine-sc": "^5.10.3",
+    "dotenv": "^16.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-components": "^5.3.5"
+>>>>>>> b5e3d43cda603e5b3a0147d9cf066151fb5a3013
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
